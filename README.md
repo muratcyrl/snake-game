@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 - [Game Development Wiki](https://github.com/username/snake-game/wiki)  
 
 ## 🌐 Connect  
-- **GitHub**: [Your GitHub Profile](https://github.com/username)  
+- **GitHub**: [Your GitHub Profile]([https://github.com/username](https://github.com/unnameedhero))  
 
 ---
 
