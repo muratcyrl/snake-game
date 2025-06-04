@@ -1,0 +1,26 @@
+#ekran{
+    background-color: black;
+    width: 800px;
+    height: 800px;
+}
+#kafa{
+    background-color: blue;
+    width: 20px;
+    height: 20px;
+    position:absolute;
+    top: 400px;
+    left: 400px;
+}
+#yem{
+    background-color: red;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+
+}
+#gövde{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    position:absolute;
+}
