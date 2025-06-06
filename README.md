@@ -16,7 +16,7 @@ The **Snake Game** is a classic arcade-style game developed in JavaScript, HTML,
 ```bash
 .
 ├── index1.html        # Main HTML file
-├── sa.css             # Stylesheet for the game
+├── main.css             # Stylesheet for the game
 ├── script.js          # JavaScript file with game logic
 ├── .vscode/           # Visual Studio Code settings
 ├── .gitattributes     # Git configuration file
